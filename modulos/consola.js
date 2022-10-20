@@ -46,11 +46,11 @@
 // console.log('empezamos');
 // funcion1();
 
-// console.count('veces');
-// console.count('veces');
-// console.count('veces');
-// console.countReset('veces');
-// console.count('veces');
+console.count('veces');
+console.count('veces');
+console.count('veces');
+console.countReset('veces');
+console.count('veces');
 
 // console.log: recibe cualquier tipo y lo muestra en el consola.
 // console.info: es equivalente a log pero es usado para informar.
