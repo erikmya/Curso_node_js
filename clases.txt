@@ -23,3 +23,11 @@ Event Loop: Se encarga de resolver los eventos ultra rápidos que llegan desde e
 
 Thread Pool: Se encarga de gestionar los eventos de forma asíncrona. Una vez terminado lo devuelve al Event Loop. El Event Loop vera si lo pasa a Event Queue o no.
 
+~~ Clase 23 ~~
+
+Datos almacenados vs en memoria
+________________________________________
+Todo esto funciona por tiempos, cuando vas a escribir en memoria todo funciona súper rápido, sin embargo, cuando tienes que escribir en disco el proceso es más lento.
+
+Especialmente los discos duros antiguos (O sea, los que no son SSD) son súper lentos. Aunque los SSD sea más rápidos, siguen siendo más lentos que la memoria.
+
